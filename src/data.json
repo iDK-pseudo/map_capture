@@ -1,0 +1,178 @@
+[
+    {
+        "id": "place.233720044",
+        "type": "Feature",
+        "place_type": [
+            "place"
+        ],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q60",
+            "mapbox_id": "dXJuOm1ieHBsYzpEZTVJN0E"
+        },
+        "text": "New York",
+        "place_name": "New York, New York, United States",
+        "bbox": [
+            -74.259639922,
+            40.477399,
+            -73.700272,
+            40.917577
+        ],
+        "center": [
+            -73.9866,
+            40.7306
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -73.9866,
+                40.7306
+            ]
+        },
+        "context": [
+            {
+                "id": "district.17000172",
+                "wikidata": "Q500416",
+                "mapbox_id": "dXJuOm1ieHBsYzpBUU5tN0E",
+                "text": "New York County"
+            },
+            {
+                "id": "region.107756",
+                "short_code": "US-NY",
+                "wikidata": "Q1384",
+                "mapbox_id": "dXJuOm1ieHBsYzpBYVRz",
+                "text": "New York"
+            },
+            {
+                "id": "country.8940",
+                "short_code": "us",
+                "wikidata": "Q30",
+                "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                "text": "United States"
+            }
+        ]
+    },
+    {
+        "id": "region.107756",
+        "type": "Feature",
+        "place_type": [
+            "region"
+        ],
+        "relevance": 1,
+        "properties": {
+            "short_code": "US-NY",
+            "wikidata": "Q1384",
+            "mapbox_id": "dXJuOm1ieHBsYzpBYVRz"
+        },
+        "text": "New York",
+        "place_name": "New York, United States",
+        "bbox": [
+            -79.8046875,
+            40.4771401,
+            -71.763627,
+            45.0239467
+        ],
+        "center": [
+            -75.4652471468304,
+            42.751210955038
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75.4652471468304,
+                42.751210955038
+            ]
+        },
+        "context": [
+            {
+                "id": "country.8940",
+                "short_code": "us",
+                "wikidata": "Q30",
+                "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                "text": "United States"
+            }
+        ]
+    },
+    {
+        "id": "region.156908",
+        "type": "Feature",
+        "place_type": [
+            "region"
+        ],
+        "relevance": 1,
+        "properties": {
+            "short_code": "US-NJ",
+            "wikidata": "Q1408",
+            "mapbox_id": "dXJuOm1ieHBsYzpBbVRz"
+        },
+        "text": "New Jersey",
+        "place_name": "New Jersey, United States",
+        "bbox": [
+            -75.5741778,
+            38.8510385,
+            -73.8706661,
+            41.357607
+        ],
+        "center": [
+            -74.3893168105238,
+            40.1502478924773
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -74.3893168105238,
+                40.1502478924773
+            ]
+        },
+        "context": [
+            {
+                "id": "country.8940",
+                "short_code": "us",
+                "wikidata": "Q30",
+                "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                "text": "United States"
+            }
+        ]
+    },
+    {
+        "id": "region.33806",
+        "type": "Feature",
+        "place_type": [
+            "region"
+        ],
+        "relevance": 1,
+        "properties": {
+            "short_code": "AU-NSW",
+            "wikidata": "Q3224",
+            "mapbox_id": "dXJuOm1ieHBsYzpoQTQ"
+        },
+        "text": "New South Wales",
+        "place_name": "New South Wales, Australia",
+        "bbox": [
+            140.999265,
+            -37.5097258,
+            159.200456,
+            -28.1370359
+        ],
+        "center": [
+            147.014694071448,
+            -32.168971672412
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                147.014694071448,
+                -32.168971672412
+            ]
+        },
+        "context": [
+            {
+                "id": "country.8718",
+                "short_code": "au",
+                "wikidata": "Q408",
+                "mapbox_id": "dXJuOm1ieHBsYzpJZzQ",
+                "text": "Australia"
+            }
+        ]
+    }
+]
